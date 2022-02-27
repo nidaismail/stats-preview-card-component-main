@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/nidaismail/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel](https://stats-preview-card-component-main-rosy.vercel.app/)
 
 ## My process
 I made this page with desktop-first method, first I made this page for desktop and then for mobile.
